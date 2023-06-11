@@ -4,7 +4,7 @@
 
 > **Warning**: Jangan Memperjual Belikan Script Ini. 
 
-<h1 align="center">ElainaBOT - MD</h1>
+<h1 align="center">Bot Wa All Menu</h1>
 <p align="center">
   <a href="https://github.com/CodingLeb"></a>
 </p>
