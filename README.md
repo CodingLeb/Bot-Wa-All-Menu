@@ -1,4 +1,4 @@
-[![-----------------------------------------------------]
+
 
 ## PENTING
 
@@ -6,7 +6,7 @@
 
 <h1 align="center">ElainaBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/CodingLeb"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D" alt="ʘᴗʘ">
+  <a href="https://github.com/CodingLeb"><a/>
 </p>
 
 <p align="center">
