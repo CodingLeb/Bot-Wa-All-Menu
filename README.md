@@ -6,7 +6,7 @@
 
 <h1 align="center">ElainaBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/CodingLeb"><a/>
+  <a href="https://github.com/CodingLeb"></a>
 </p>
 
 <p align="center">
